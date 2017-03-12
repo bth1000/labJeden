@@ -9,7 +9,7 @@ public class Controller {
     @FXML CheckBox cb1, cb2, cb3; // button variable declaration
     @FXML TextField oldPc;
 
-    public void ass(ActionEvent event) {
+    public void asss(ActionEvent event) {
         if (cb1.isSelected()){
             System.out.println("Yeah!");
         }
